@@ -55,9 +55,6 @@ Toggle for dark mode
 
 Persistent timer using LocalStorage
 
-License
-This project was developed as an educational endeavour for Skill Craft Technology Internship Program.
-
 Author
 Akshay Ch
 Intern, Skill Craft Technology
