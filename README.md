@@ -1,4 +1,12 @@
 **StartNStop - Stopwatch Website**
+
+SkillCraft Technology Internship – Task 1
+
+Author: CH D S Akshay
+
+Domain: Web Development
+
+
 StartNStop is a simple and efficient stopwatch web app that has been developed as Task 2 in the internship at Skill Craft Technology. StartNStop provides simple timer functionality within a simple, responsive user interface with core web technologies.
 
 Project Overview
